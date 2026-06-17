@@ -14,7 +14,7 @@ This is a personal project, but if you find a real vulnerability and want to be 
 
 ## Scope
 
-**In scope:** anything in this repository — application code, configs, deployment scripts, documentation.
+**In scope:** anything in this repository, application code, configs, deployment scripts, documentation.
 
 **Out of scope:** my personal infrastructure beyond this repo, third-party services I integrate with (Tailscale, hosting providers, etc.), physical attacks on hardware I control.
 
