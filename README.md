@@ -16,15 +16,15 @@ The project is structured so that security is a first-class concern rather than 
 
 > A diagram will live here later.
 
-- **Pi node (`pi/`)** — captures video, does motion detection, ships events to the server. Treated as a low-trust device.
-- **Server (`server/`)** — API, database, auth, media storage. Runs on a self-hosted Linux machine. Authoritative.
-- **Web app (`web/`)** — browser dashboard. React / Next.js. Designed mobile-friendly so iPhone users can use it via Safari without a native app.
-- **Infra (`infra/`)** — Docker Compose files, systemd units, Tailscale config, deployment scripts.
-- **Docs (`docs/`)** — threat model, Architecture Decision Records (ADRs), design notes.
+- **Pi node (`pi/`)** - captures video, does motion detection, ships events to the server. Treated as a low-trust device.
+- **Server (`server/`)** - API, database, auth, media storage. Runs on a self-hosted Linux machine. Authoritative.
+- **Web app (`web/`)** - browser dashboard. React / Next.js. Designed mobile-friendly so iPhone users can use it via Safari without a native app.
+- **Infra (`infra/`)** - Docker Compose files, systemd units, Tailscale config, deployment scripts.
+- **Docs (`docs/`)** - threat model, Architecture Decision Records (ADRs), design notes.
 
 ## Getting started
 
-> To be written when there's something to start. For now, see [JOURNAL.md](JOURNAL.md) for current status.
+> For now, see [JOURNAL.md](JOURNAL.md) for current status.
 
 ## Security
 
